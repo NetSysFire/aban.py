@@ -39,11 +39,11 @@ This is unfortunate. Please create an issue for that and append some debug infor
 
 ### Will this work with my weechat version?
 
-Probably. This script does not use incredibly complex weechat API incantations. It was tested with version `3.0.1`.
+Probably. This script does not use incredibly complex weechat API incantations. It was tested with version `3.0.1` and `3.1`.
 
 ### What IRC networks has this been tested with?
 
-freenode, hackint and OFTC. It will work on any other IRC network which has the same behavior for `/who <nick> %a` and supports `$a:`.
+Libera Chat, freenode, hackint and OFTC. It will work on any other IRC network which has the same behavior for `/who <nick> %a` and supports `$a:`.
 
 ### This repo was not touched in a while? Is it dead?
 
